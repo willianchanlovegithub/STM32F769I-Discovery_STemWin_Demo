@@ -1,1 +1,0 @@
-# STM32F769I-Discovery_STemWin_Demo
